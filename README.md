@@ -1,6 +1,8 @@
-# Blur.js
+# Blurjs
 
-blur.js is a jQuery plugin that produces psuedo-transparent blurred elements over other elements.
+This repository is a fork and an npm port of [Blur.js](https://github.com/jakiestfu/Blur.js).
+
+And blur.js is a jQuery plugin that produces psuedo-transparent blurred elements over other elements.
 
 
 ## Usage
